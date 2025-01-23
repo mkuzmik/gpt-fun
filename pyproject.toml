@@ -11,6 +11,9 @@ jupyterlab = "*"
 transformers = "*"
 torch = "2.2.2"
 numpy = "1.26.4"
+tiktoken = "*"
+blobfile = "*"
+accelerate = ">=0.26.0"
 
 
 [build-system]
